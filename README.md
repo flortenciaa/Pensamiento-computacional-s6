@@ -3,9 +3,9 @@ Ejercicios de código del curso
 
  # Ejercicios de escritura con markdown #
  
- ## Autor Florencia Guzmán ##
+ *Autor Florencia Guzmán*
 
-  Quién es Florencia 
+  ## Quién es Florencia ##
   
   ***Estudiante de la UDP***
   
