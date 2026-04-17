@@ -12,4 +12,5 @@ Ejercicios de código del curso
  Dueña de 1 galgo y 2 salchichas
  
  ![Perro Galgo](https://cdn-fastly.petguide.com/media/2022/02/28/8264297/ibizan-hound.jpg?size=720x845&nocrop=1)
-  
+
+ ![perrito](Florencia carpeta github/palomi.png)
