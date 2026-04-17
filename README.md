@@ -13,5 +13,5 @@ Ejercicios de código del curso
  
  ![Perro Galgo](https://cdn-fastly.petguide.com/media/2022/02/28/8264297/ibizan-hound.jpg?size=720x845&nocrop=1)
 
- ![perrito](Flo_carpeta_github/<img width="600" height="466" alt="Two-Greyhounds-in-a-wooded-landscape" src="https://github.com/user-attachments/assets/697637b8-bd4b-43f4-ba73-62fdcccfe410" />
+ ![perrito](Flo_carpeta_github/Two-Greyhounds-in-a-wooded-landscape.jpg)
 
