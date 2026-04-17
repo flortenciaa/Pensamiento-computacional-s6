@@ -5,7 +5,7 @@ Ejercicios de código del curso
  
  *Autor Florencia Guzmán*
 
-  ## Quién es Florencia ##
+  ## ¿Quién es Florencia? ##
   
   ***Estudiante de la UDP***
   
