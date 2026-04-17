@@ -6,5 +6,5 @@ Ejercicios de código del curso
  ## Autor Florencia Guzmán ##
 
   Quién es Florencia 
-  *Estudiante*
+  ***Estudiante***
   
